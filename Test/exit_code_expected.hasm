@@ -1,0 +1,10 @@
+global start
+
+section .a
+
+section .b
+
+start :
+mov 1, eax
+mov 1, ebx
+int 0x80
