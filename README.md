@@ -9,7 +9,7 @@ This Python program translates assembly likr programs written in hindi to asm co
 # Example Code
 Test folder contains example programs and various references with their english counterparts.  
 
-![simple_example](./.images/simple_program.png) ![expected_simple](./.images/simple_expected.png)
+![simple_example](./Images/simple_program.png) ![expected_simple](./Images/simple_expected.png)
 
 # TODOs (Contributions)
 1. Implement hindi labels
